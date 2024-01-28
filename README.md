@@ -44,18 +44,12 @@ Analista de Dados Jr com experiência em Python, SQL, Microsoft Excel e Microsof
 ---
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/256/4492/4492311.png?ga=GA1.1.103088713.1706464842&semt=ais" alt="sql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/EXCEL/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/256/732/732220.png?ga=GA1.1.103088713.1706464842&semt=ais" alt="excel" width="40" height="40"/> 
-    </a>
-    <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/256/6713/6713054.png?ga=GA1.1.103088713.1706464842&semt=ais" alt="power bi" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"alt="Python" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.freepik.com/256/4492/4492311.png?ga=GA1.1.103088713.1706464842&semt=ais" tile="SQL" alt="SQL" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.freepik.com/256/732/732220.png?ga=GA1.1.103088713.1706464842&semt=ais" title="Excel" alt="Excel" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.freepik.com/256/6713/6713054.png?ga=GA1.1.103088713.1706464842&semt=ais" title="Power BI" alt="power bi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> 
 </p>
 
 ---
