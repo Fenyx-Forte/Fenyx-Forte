@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=1060&t=st=1706465023~exp=1706465623~hmac=e73a79b4b6c4de43400e5123f144e6cae98ba6c209713bdc5b6c804d2ad8e677" alt="Programming" width="400"/>
+  <img src="https://img.freepik.com/free-vector/flat-gamer-room-illustration_23-2148955229.jpg?w=1060&t=st=1706465023~exp=1706465623~hmac=e73a79b4b6c4de43400e5123f144e6cae98ba6c209713bdc5b6c804d2ad8e677" alt="Programming" width="300"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/fenyxforte/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
