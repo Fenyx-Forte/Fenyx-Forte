@@ -51,18 +51,3 @@ Analista de Dados Jr com experiência em Python, SQL, Microsoft Excel e Microsof
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css3" width="40" height="40"/> 
 </p>
-
----
-<div align="left">
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenyx-forte&show_icons=true&locale=en&layout=compact" alt="fenyx-forte" />
-    <br/><br/><br/><br/><br/>
-</p>
-
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenyx-forte&show_icons=true&locale=en" alt="fenyx-forte" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenyx-forte&" alt="fenyx-forte" />
-</p>
-</div>
