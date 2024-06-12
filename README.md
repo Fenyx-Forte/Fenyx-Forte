@@ -13,12 +13,14 @@
 
 
 ### :man_technologist: Sobre mim :
-Analista de Dados com experiência em Python, SQL, Power BI, Excel, HTML e CSS.
+Analista de Dados com experiência em Python, SQL, Power BI, Excel, HTML e CSS.\n
 Proficiente na automatização de rotinas ETL, e-mails e relatórios com Python e SQL. 
 
-- 🧠 Portfólio: https://fenyx-forte.github.io
+- Portfólio: **https://fenyx-forte.github.io**
 
-- 📫 Contato **fenyxforte@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/fenyxforte/**
+
+- Contato **fenyxforte@gmail.com**
 
 ---
 <h3 align="left">Redes Sociais:</h3>
