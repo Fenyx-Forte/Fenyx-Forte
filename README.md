@@ -9,17 +9,16 @@
 
 
 <h1 align="center">Olá 👋, eu sou Fenyx Forte</h1>
-<h3 align="center">Analista de Dados Jr</h3>
+<h3 align="center">Analista de Dados</h3>
 
 
 ### :man_technologist: Sobre mim :
-Analista de Dados Jr com experiência em Python, SQL, Microsoft Excel e Microsoft Power BI. Proficiente na geração de relatórios automatizados utilizando Python e na criação e manutenção de dashboards utilizando Microsoft Power BI.
+Analista de Dados com experiência em Python, SQL, Power BI, Excel, HTML e CSS.
+Proficiente na automatização de rotinas ETL, e-mails e relatórios com Python e SQL. 
 
-- 🧠 Estou atualmente me aprofundando em **Python**
+- 🧠 Portfólio: https://fenyx-forte.github.io
 
 - 📫 Contato **fenyxforte@gmail.com**
-
-- ⚡ Em meu tempo livre, eu leio livros e assisto animes
 
 ---
 <h3 align="left">Redes Sociais:</h3>
