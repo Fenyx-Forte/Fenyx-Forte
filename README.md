@@ -12,7 +12,7 @@
 <h3 align="center">Analista de Dados</h3>
 
 
-### :man_technologist: Sobre mim :
+### Sobre mim :
 Analista de Dados com experiência em Python, SQL, Power BI, Excel, HTML e CSS.<br/>
 Proficiente na automatização de rotinas ETL, e-mails e relatórios com Python e SQL. 
 
@@ -20,7 +20,7 @@ Proficiente na automatização de rotinas ETL, e-mails e relatórios com Python 
 
 - LinkedIn: **https://www.linkedin.com/in/fenyxforte/**
 
-- Contato **fenyxforte@gmail.com**
+- Contato: **fenyxforte@gmail.com**
 
 ---
 <h3 align="left">Redes Sociais:</h3>
@@ -33,16 +33,6 @@ Proficiente na automatização de rotinas ETL, e-mails e relatórios com Python 
   </a>
 </p>
 
----
-<h3 align="left">Meus perfis em sites de programação:</h3>
-<p align="left">
-  <a href="https://www.hackerrank.com/fenyx_studies" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="HackerRank Logo" height="30" width="40" />
-  </a>
-</p>
-
----
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"alt="Python" width="40" height="40"/> 
