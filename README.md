@@ -8,11 +8,11 @@
 </div>
 
 
-<h1 align="center">Olá 👋, eu sou Fenyx Forte</h1>
+<h1 align="center">Olá, eu sou Fenyx Forte</h1>
 <h3 align="center">Analista de Dados</h3>
 
 
-### Sobre mim :
+### Sobre mim
 Analista de Dados com experiência em Python, SQL, Power BI, Excel, HTML e CSS.<br/>
 Proficiente na automatização de rotinas ETL, e-mails e relatórios com Python e SQL. 
 
